@@ -27,7 +27,7 @@
   <p class="text-lg leading-relaxed">
       <h2 class="text-4xl font-semibold mb-6 border-b pb-2">About Me</h2>
       <p class="text-lg leading-relaxed">
-        Hello! I'm Risky, a professional freelance web designer based in Indonesia. With over 2 years of experience, I design and build visually stunning, user-friendly, and high-performing websites that help brands grow and connect with their audiences. My approach combines clean aesthetics, strategic UX, and mobile-first development to deliver sites that don’t just look great — they work.
+        Hello! I'm Risky, I am in the early stages of my freelance web design career, currently building my portfolio and working with small clients. I design and build visually stunning, user-friendly, and high-performing websites that help brands grow and connect with their audiences. My approach combines clean aesthetics, strategic UX, and mobile-first development to deliver sites that don’t just look great — they work.
       </p>
     </section>
 
