@@ -103,7 +103,7 @@
       <p class="text-lg mb-4">Interested in working together? Let's talk!</p>
       <ul class="space-y-2 text-lg">
         <li>Email: <a href="mailto:riskyaja930@gmail.com" class="text-blue-600 hover:underline">riskyaja930@gmail.com</a></li>
-        <li>WhatsApp: <a href="https://wa.me/+62878-1863-0770" class="text-blue-600 hover:underline">+62878-1863-0770</a></li>
+        <li>WhatsApp: <a href="https://wa.me/6287818630770" class="text-blue-600 hover:underline">6287818630770</a></li>
         <li>Instagram: <a href="https://instagram.com/Albert_toft001" class="text-blue-600 hover:underline">@Albert_toft001</a></li>
       </ul>
     </section>
